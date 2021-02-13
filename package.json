@@ -1,0 +1,8 @@
+{
+  "name": "jshe",
+  "version": "0.1.0",
+  "description": "JavaScript HTML Eval",
+  "license": "MIT",
+  "repository": "rentzsch/jshe",
+  "main": "jshe.js"
+}
